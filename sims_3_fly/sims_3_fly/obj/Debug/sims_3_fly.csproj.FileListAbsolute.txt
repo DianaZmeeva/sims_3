@@ -1,0 +1,9 @@
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\bin\Debug\sims_3_fly.exe.config
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\bin\Debug\sims_3_fly.exe
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\bin\Debug\sims_3_fly.pdb
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\obj\Debug\sims_3_fly.Form1.resources
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\obj\Debug\sims_3_fly.Properties.Resources.resources
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\obj\Debug\sims_3_fly.csproj.GenerateResource.Cache
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\obj\Debug\sims_3_fly.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\obj\Debug\sims_3_fly.exe
+C:\Users\111\source\repos\sims_3_fly\sims_3_fly\obj\Debug\sims_3_fly.pdb
